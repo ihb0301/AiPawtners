@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ai Pawtners</string>
+    <string name="pause">일시정지</string>
+    <string name="resume">다시 시작</string>
+    <string name="restart">재시작</string>
+    <string name="select">영상 선택</string>
+    <string name="live">라이브</string>
+</resources>
